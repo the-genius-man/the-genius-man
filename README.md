@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter Development
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on #FlutterProjects
-- 📫 Drop an email at nick@techyahead.com
+- 📫 Drop an email at genius@techyahead.com
 
 <!---
 the-genius-man/the-genius-man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
